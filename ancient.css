@@ -6,9 +6,23 @@ h1{
 }
 
 header{
-    background-color: blue;
+    background-color: red;
 }
 
 nav{
     margin: 10px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
 }
