@@ -20,9 +20,11 @@ img{
 section{
     display: flex;
     flex-direction: column;
+    background-color: red;
 }
 
 main{
     display: flex;
     justify-content: space-between;
+    background-color: slategray;
 }
